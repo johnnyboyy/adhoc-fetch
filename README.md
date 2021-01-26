@@ -1,3 +1,5 @@
+This README is from the provided files. My solution lives in *api/managed-records.js*
+
 # Fetch
 
 At Ad Hoc, our front-end applications often exchange JSON data with various RESTful APIs. We use modern JavaScript
